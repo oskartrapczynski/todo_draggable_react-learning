@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+Project made with course: <br>
+https://www.youtube.com/watch?v=FJDVKeh7RJI&t=1692s
+
+## Demo
+https://oskartrapczynski.github.io/todo_draggable_react-learning/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
