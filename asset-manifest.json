@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo_draggable_react-learning/static/css/main.1880fbeb.css",
+    "main.js": "/todo_draggable_react-learning/static/js/main.1fffe67a.js",
+    "index.html": "/todo_draggable_react-learning/index.html",
+    "main.1880fbeb.css.map": "/todo_draggable_react-learning/static/css/main.1880fbeb.css.map",
+    "main.1fffe67a.js.map": "/todo_draggable_react-learning/static/js/main.1fffe67a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1880fbeb.css",
+    "static/js/main.1fffe67a.js"
+  ]
+}
